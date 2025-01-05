@@ -55,7 +55,7 @@ The following artifacts are included in this repository:
 
 • Requirements Traceability Matrix (RTM)
 
-•Ma ps requirements to corresponding test cases to ensure complete coverage.
+• Maps requirements to corresponding test cases to ensure complete coverage.
 
 • Test Execution Logs
 
